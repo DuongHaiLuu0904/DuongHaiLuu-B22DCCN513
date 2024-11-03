@@ -1,0 +1,313 @@
+Attribute,Team,Highest Score
+Median of age,West Ham,27.5
+Mean of age,West Ham,28.272727272727277
+Std of age,Brighton,5.69832426866877
+Median of matches_played,Fulham,29.0
+Mean of matches_played,Fulham,27.23809523809524
+Std of matches_played,Wolves,11.930772537155056
+Median of starts,Manchester City,24.0
+Mean of starts,Fulham,19.904761904761905
+Std of starts,Everton,13.720098641021776
+Median of minutes,Manchester City,2042.0
+Mean of minutes,Manchester City,1785.571428571429
+Std of minutes,Everton,1156.4803835216385
+Median of non_penalty_goals,Fulham,2.0
+Mean of non_penalty_goals,Manchester City,4.047619047619048
+Std of non_penalty_goals,Manchester City,5.757396898566143
+Median of penalty_goals,Bournemouth,0.0
+Mean of penalty_goals,Arsenal,0.4761904761904761
+Std of penalty_goals,Chelsea,1.8046236911518885
+Median of assists,Liverpool,2.0
+Mean of assists,Manchester City,3.238095238095238
+Std of assists,Manchester City,3.780274618394303
+Median of yellow_cards,Aston Villa,4.0
+Mean of yellow_cards,Chelsea,4.32
+Std of yellow_cards,Wolves,3.7629775444453553
+Median of red_cards,Bournemouth,0.0
+Mean of red_cards,Burnley,0.25
+Std of red_cards,Tottenham,0.4815434123430768
+Median of xG,Liverpool,2.3
+Mean of xG,Liverpool,4.1000000000000005
+Std of xG,Manchester City,6.645560637784911
+Median of npxG,Liverpool,2.15
+Mean of npxG,Liverpool,3.7545454545454544
+Std of npxG,Manchester City,5.367299578177536
+Median of xAG,Liverpool,1.65
+Mean of xAG,Liverpool,2.9318181818181817
+Std of xAG,Tottenham,3.2418459583069805
+Median of PrgC,Liverpool,41.0
+Mean of PrgC,Manchester City,53.47619047619048
+Std of PrgC,Manchester City,51.45640781051379
+Median of PrgP,Manchester City,100.0
+Mean of PrgP,Arsenal,99.61904761904762
+Std of PrgP,Arsenal,94.09648037545092
+Median of PrgR,Liverpool,80.5
+Mean of PrgR,Arsenal,98.85714285714286
+Std of PrgR,Arsenal,130.50259986463325
+Median of per90_Gls,Manchester City,0.15
+Mean of per90_Gls,Newcastle Utd,0.2199999999999999
+Std of per90_Gls,Aston Villa,0.2595260197758819
+Median of per90_Ast,Arsenal,0.17
+Mean of per90_Ast,Tottenham,0.1854166666666666
+Std of per90_Ast,Tottenham,0.2596314974974216
+Median of per90_G+A,Arsenal,0.25
+Mean of per90_G+A,Manchester City,0.3561904761904761
+Std of per90_G+A,Manchester City,0.350349485378189
+Median of per90_G-PK,Manchester City,0.15
+Mean of per90_G-PK,Newcastle Utd,0.2029166666666666
+Std of per90_G-PK,Aston Villa,0.2592791771423319
+Median of per90_G+A-PK,Arsenal,0.25
+Mean of per90_G+A-PK,Manchester City,0.3409523809523809
+Std of per90_G+A-PK,Tottenham,0.3297649580174216
+Median of per90_xG,Newcastle Utd,0.13
+Mean of per90_xG,Everton,0.2047826086956521
+Std of per90_xG,Bournemouth,0.3038329500539096
+Median of per90_xAG,Liverpool,0.13
+Mean of per90_xAG,Tottenham,0.16125
+Std of per90_xAG,Manchester City,0.1914754739982568
+Median of per90_xG+xAG,Newcastle Utd,0.295
+Mean of per90_xG+xAG,Manchester City,0.3376190476190476
+Std of per90_xG+xAG,Bournemouth,0.3730326857198771
+Median of per90_npxG,Newcastle Utd,0.13
+Mean of per90_npxG,Everton,0.198695652173913
+Std of per90_npxG,Bournemouth,0.3013834766539134
+Median of per90_npxG+xAG,Newcastle Utd,0.295
+Mean of per90_npxG+xAG,Tottenham,0.3270833333333333
+Std of per90_npxG+xAG,Bournemouth,0.371246756007583
+Median of Gls,Fulham,2.0
+Mean of Gls,Manchester City,4.476190476190476
+Std of Gls,Manchester City,6.910998825199203
+Median of Sh,Liverpool,21.0
+Mean of Sh,Liverpool,35.40909090909091
+Std of Sh,Manchester City,34.904836613965394
+Median of SoT,Fulham,7.0
+Mean of SoT,Manchester City,12.523809523809524
+Std of SoT,Manchester City,15.194140474600882
+Median of Sh/90,Tottenham,1.5550000000000002
+Mean of Sh/90,Liverpool,1.728181818181818
+Std of Sh/90,Bournemouth,1.7293035058614248
+Median of SoT/90,Fulham,0.47
+Mean of SoT/90,Everton,0.6313043478260869
+Std of SoT/90,Everton,0.7157342342456076
+Median of FK,Bournemouth,0.0
+Mean of FK,Manchester City,1.1904761904761905
+Std of FK,West Ham,3.40771978198826
+Median of PK,Bournemouth,0.0
+Mean of PK,Arsenal,0.4761904761904761
+Std of PK,Chelsea,1.8046236911518885
+Median of PKatt.1,Bournemouth,0.0
+Mean of PKatt.1,Chelsea,0.48
+Std of PKatt.1,Chelsea,1.8284784202536637
+Median of xG_shooting,Liverpool,2.3
+Mean of xG_shooting,Liverpool,4.1000000000000005
+Std of xG_shooting,Manchester City,6.645560637784911
+Median of npxG_shooting,Liverpool,2.15
+Mean of npxG_shooting,Liverpool,3.7545454545454544
+Std of npxG_shooting,Manchester City,5.367299578177536
+Median of G-xG,Newcastle Utd,0.25
+Mean of G-xG,Manchester City,0.5809523809523809
+Std of G-xG,Manchester City,2.319616142300068
+Median of np:G-xG,Newcastle Utd,0.25
+Mean of np:G-xG,Manchester City,0.5238095238095237
+Std of np:G-xG,Manchester City,2.395392402489572
+Median of Pass_Cmp,Manchester City,1011.0
+Mean of Pass_Cmp,Manchester City,1169.2857142857142
+Std of Pass_Cmp,Manchester City,879.898979591245
+Median of Pass_Att,Manchester City,1234.0
+Mean of Pass_Att,Manchester City,1318.4761904761904
+Std of Pass_Att,Manchester City,948.1646280603184
+Median of Pass_Cmp%,Manchester City,87.3
+Mean of Pass_Cmp%,Manchester City,86.84761904761905
+Std of Pass_Cmp%,Crystal Palace,8.473676203738085
+Median of TotDist,Fulham,16128.0
+Mean of TotDist,Manchester City,18722.61904761905
+Std of TotDist,Manchester City,15036.706821894846
+Median of PrgDist,Liverpool,4071.0
+Mean of PrgDist,Liverpool,5386.318181818182
+Std of PrgDist,Everton,5635.865413973871
+Median of Short_Cmp,Manchester City,452.0
+Mean of Short_Cmp,Manchester City,612.3809523809524
+Std of Short_Cmp,Manchester City,436.5011427465541
+Median of Short_Att,Manchester City,507.0
+Mean of Short_Att,Manchester City,651.6190476190476
+Std of Short_Att,Manchester City,458.29635348652687
+Median of Short_Cmp%,Manchester City,94.4
+Mean of Short_Cmp%,Manchester City,93.7714285714286
+Std of Short_Cmp%,Everton,9.135129604191476
+Median of Medium_Cmp,Fulham,325.0
+Mean of Medium_Cmp,Manchester City,448.8095238095238
+Std of Medium_Cmp,Manchester City,386.8632341083369
+Median of Medium_Att,Fulham,403.0
+Mean of Medium_Att,Manchester City,489.4761904761905
+Std of Medium_Att,Manchester City,406.5543775496236
+Median of Medium_Cmp%,Manchester City,91.4
+Mean of Medium_Cmp%,Manchester City,89.7047619047619
+Std of Medium_Cmp%,Sheffield Utd,12.401345866894642
+Median of Long_Cmp,Fulham,66.0
+Mean of Long_Cmp,Manchester City,78.61904761904762
+Std of Long_Cmp,Everton,99.80374021681163
+Median of Long_Att,Fulham,109.0
+Mean of Long_Att,Fulham,135.38095238095238
+Std of Long_Att,Everton,216.7342957187705
+Median of Ast,Liverpool,2.0
+Mean of Ast,Manchester City,3.238095238095238
+Std of Ast,Manchester City,3.780274618394303
+Median of xAG.1,Liverpool,1.65
+Mean of xAG.1,Liverpool,2.9318181818181817
+Std of xAG.1,Tottenham,3.2418459583069805
+Median of xA,Manchester City,1.9
+Mean of xA,Manchester City,2.947619047619048
+Std of xA,Arsenal,3.225921795172882
+Median of A-xAG,Arsenal,0.4
+Mean of A-xAG,Manchester City,0.357142857142857
+Std of A-xAG,Liverpool,1.7758907282791585
+Median of KP,Liverpool,19.0
+Mean of KP,Liverpool,27.181818181818183
+Std of KP,Arsenal,28.935231449698463
+Median of 1/3,Liverpool,63.0
+Mean of 1/3,Manchester City,89.95238095238095
+Std of 1/3,Manchester City,97.43791674213698
+Median of PPA,Liverpool,19.0
+Mean of PPA,Arsenal,26.0
+Std of PPA,Arsenal,30.35786553761644
+Median of CrsPA,Bournemouth,2.0
+Mean of CrsPA,Fulham,4.476190476190476
+Std of CrsPA,Fulham,6.120613103432103
+Median of PrgP.1,Manchester City,100.0
+Mean of PrgP.1,Arsenal,99.61904761904762
+Std of PrgP.1,Arsenal,94.09648037545092
+Median of Pass_Live,Manchester City,1069.0
+Mean of Pass_Live,Manchester City,1241.3333333333333
+Std of Pass_Live,Manchester City,912.4227821209494
+Median of Pass_Dead,Manchester City,65.0
+Mean of Pass_Dead,Fulham,83.23809523809524
+Std of Pass_Dead,Luton Town,131.26992547165298
+Median of Pass_FK,Manchester City,23.0
+Mean of Pass_FK,Aston Villa,27.30434782608696
+Std of Pass_FK,Everton,47.06664184646656
+Median of Pass_TB,Liverpool,3.0
+Mean of Pass_TB,Arsenal,4.9523809523809526
+Std of Pass_TB,Arsenal,8.315504737995106
+Median of Pass_Sw,West Ham,4.0
+Mean of Pass_Sw,West Ham,7.181818181818182
+Std of Pass_Sw,Newcastle Utd,9.573419572902912
+Median of Pass_Crs,Fulham,19.0
+Mean of Pass_Crs,Liverpool,37.13636363636363
+Std of Pass_Crs,Luton Town,68.00237740942103
+Median of Pass_TI,Brentford,15.0
+Mean of Pass_TI,Liverpool,34.31818181818182
+Std of Pass_TI,West Ham,84.00362030953323
+Median of Pass_CK,Newcastle Utd,0.5
+Mean of Pass_CK,Manchester City,13.571428571428571
+Std of Pass_CK,Fulham,32.7504271146267
+Median of Pass_Cmp_outcome,Manchester City,1011.0
+Mean of Pass_Cmp_outcome,Manchester City,1169.2857142857142
+Std of Pass_Cmp_outcome,Manchester City,879.898979591245
+Median of Pass_Off,Liverpool,3.5
+Mean of Pass_Off,Liverpool,4.545454545454546
+Std of Pass_Off,Manchester Utd,4.658160746309807
+Median of Pass_Blocks,Tottenham,17.5
+Mean of Pass_Blocks,Tottenham,20.0
+Std of Pass_Blocks,West Ham,20.015199851818245
+Median of Tkl,Crystal Palace,31.0
+Mean of Tkl,Crystal Palace,32.833333333333336
+Std of Tkl,Fulham,33.92035489481907
+Median of TklW,Everton,20.0
+Mean of TklW,Crystal Palace,19.33333333333333
+Std of TklW,West Ham,19.46764437442747
+Median of Def_3rd,Crystal Palace,12.5
+Mean of Def_3rd,Wolves,16.6
+Std of Def_3rd,Fulham,20.13324660971546
+Median of Mid_3rd,Crystal Palace,12.0
+Mean of Mid_3rd,Liverpool,13.045454545454543
+Std of Mid_3rd,Fulham,12.739327933234003
+Median of Att_3rd,Liverpool,4.5
+Mean of Att_3rd,Manchester City,5.380952380952381
+Std of Att_3rd,Tottenham,5.569065698447378
+Median of Challenges_Tkl,Crystal Palace,14.0
+Mean of Challenges_Tkl,Fulham,16.428571428571427
+Std of Challenges_Tkl,Fulham,22.874814597218982
+Median of Challenges_Att,Everton,28.0
+Mean of Challenges_Att,Liverpool,34.45454545454545
+Std of Challenges_Att,Fulham,35.49124640567828
+Median of Challenges_Lost,Liverpool,14.5
+Mean of Challenges_Lost,Liverpool,19.13636363636364
+Std of Challenges_Lost,Liverpool,17.85469247256987
+Median of Touches,Manchester City,1283.0
+Mean of Touches,Manchester City,1492.095238095238
+Std of Touches,Manchester City,1024.4471633403991
+Median of Def_Pen,Manchester Utd,55.0
+Mean of Def_Pen,Fulham,132.71428571428572
+Std of Def_Pen,Fulham,273.749729288842
+Median of Def_3rd.1,Liverpool,267.0
+Mean of Def_3rd.1,Fulham,408.0952380952381
+Std of Def_3rd.1,Fulham,423.59130122818914
+Median of Mid_3rd.1,Fulham,519.0
+Mean of Mid_3rd.1,Manchester City,681.8571428571429
+Std of Mid_3rd.1,Manchester City,633.0126606723034
+Median of Att_3rd.1,Manchester City,395.0
+Mean of Att_3rd.1,Manchester City,486.95238095238096
+Std of Att_3rd.1,Manchester City,370.90598218288096
+Median of Att_Pen,Manchester City,38.0
+Mean of Att_Pen,Arsenal,70.28571428571429
+Std of Att_Pen,Arsenal,78.20431117089574
+Median of Live_Touches,Manchester City,1283.0
+Mean of Live_Touches,Manchester City,1491.6190476190477
+Std of Live_Touches,Manchester City,1024.7768769927666
+Median of Take_Att,Manchester City,30.0
+Mean of Take_Att,Manchester City,34.714285714285715
+Std of Take_Att,West Ham,50.30601162082724
+Median of Take_Succ,Liverpool,14.0
+Mean of Take_Succ,Manchester City,17.857142857142858
+Std of Take_Succ,West Ham,27.06689644412309
+Median of Take_Tkld,Liverpool,12.0
+Mean of Take_Tkld,Bournemouth,15.615384615384617
+Std of Take_Tkld,West Ham,19.68721869860189
+Median of Carries,Manchester City,879.0
+Mean of Carries,Manchester City,959.809523809524
+Std of Carries,Manchester City,656.6072356475839
+Median of Carries_TotDist,Manchester City,4459.0
+Mean of Carries_TotDist,Manchester City,5005.142857142857
+Std of Carries_TotDist,Manchester City,3303.4188696820493
+Median of Carries_ProDist,Manchester City,2353.0
+Mean of Carries_ProDist,Manchester City,2759.714285714286
+Std of Carries_ProDist,Manchester City,1940.871766574421
+Median of Carries_ProgC,Liverpool,41.0
+Mean of Carries_ProgC,Manchester City,53.47619047619048
+Std of Carries_ProgC,Manchester City,51.45640781051379
+Median of Carries_1/3,Manchester City,46.0
+Mean of Carries_1/3,Manchester City,41.285714285714285
+Std of Carries_1/3,Manchester City,27.481162379242363
+Median of Carries_CPA,Manchester City,7.0
+Mean of Carries_CPA,Manchester City,19.714285714285715
+Std of Carries_CPA,Manchester City,33.50095947453275
+Median of Carries_Mis,Fulham,25.0
+Mean of Carries_Mis,Liverpool,25.727272727272727
+Std of Carries_Mis,Bournemouth,29.0551994552544
+Median of Carries_Dis,Aston Villa,14.0
+Mean of Carries_Dis,Liverpool,18.227272727272727
+Std of Carries_Dis,West Ham,26.576891632227586
+Median of Fls,Luton Town,18.0
+Mean of Fls,Liverpool,20.681818181818183
+Std of Fls,Chelsea,18.62319342468776
+Median of Fld,Manchester City,18.0
+Mean of Fld,Tottenham,21.041666666666668
+Std of Fld,Newcastle Utd,23.770605096771657
+Median of Off,Fulham,2.0
+Mean of Off,Liverpool,4.545454545454546
+Std of Off,Liverpool,8.313656422831238
+Median of Crs,Fulham,19.0
+Mean of Crs,Liverpool,37.13636363636363
+Std of Crs,Luton Town,68.00237740942103
+Median of OG,Bournemouth,0.0
+Mean of OG,Sheffield Utd,0.2333333333333333
+Std of OG,Fulham,0.511766315719159
+Median of Recov,Liverpool,79.5
+Mean of Recov,Liverpool,92.0
+Std of Recov,Everton,68.18606837872834
+Median of Aerial_Won,West Ham,20.0
+Mean of Aerial_Won,Everton,29.39130434782609
+Std of Aerial_Won,Everton,40.6266136803258
+Median of Aerial_Lost,West Ham,23.0
+Mean of Aerial_Lost,Bournemouth,25.653846153846157
+Std of Aerial_Lost,Luton Town,33.11721606657178
